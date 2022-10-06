@@ -1,13 +1,14 @@
-import type { JSXElement } from 'solid-js';
-
 import { Text,Box,Textarea,Badge,Divider } from "@hope-ui/solid"
 
 interface Props{
   index:number
   id:string
-  source: JSXElement
-  target: JSXElement
+  source: string
+  target: string
+  setTarget:(t:string)=>void
 }
+
+let targetRef:HTMLTextAreaElement
 
 export default function TransUnit(props:Props) {
   return (
@@ -22,12 +23,13 @@ export default function TransUnit(props:Props) {
         <Box>
           <Badge colorScheme="success">source</Badge>
         </Box>
-
         {props.source}
       </Box>
       <Divider variant="dashed"/>
         <Badge colorScheme="success">target</Badge>
-      <Textarea placeholder="edit me!" variant="unstyled">
+      <Textarea placeholder="edit me!" variant="unstyled" 
+        onblur={e=>{props.setTarget((e.target as HTMLInputElement).value)}}
+      >
         {props.target}
       </Textarea>
     </Box>
