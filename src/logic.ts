@@ -78,12 +78,10 @@ export function save():void{
     const xml = serializer.serializeToString(state.xml);
     const filename='aaaa.xlf'
 
-
     const blob = new Blob([xml], {type: 'text/xml'})
-    const aTag = document.createElement('a');
-    aTag.href = URL.createObjectURL(blob);
-    aTag.target = '_blank';
-    aTag.download = filename;
-    aTag.click();
-
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.target = '_blank';
+    a.download = filename;
+    a.click();
 }
