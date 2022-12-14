@@ -1,0 +1,1506 @@
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit datatype="html">
+        <source>
+•  Pandemonica, the Tired Demon  •
+Name's Pandemonica, Hell's Customer Service.
+How may I serve you?
+We can figure something out at my place.
+Maybe I can serve YOU instead?
+You thought you're leaving hell alive? How delusional.
+She took your face in her hands and snapped your neck with professional gentleness.
+Sweet of you to offer. I could really use some coffee.
+I'm not myself without it.
+        </source>
+        <target>•  困憊悪魔のパンデモニカ  •
+地獄お客様窓口担当、パンデモニカと申します。
+ご用件は何でしょうか？
+地獄を出て家でイロイロするぞ。
+代わりに俺がお前の担当になってやろうか？
+生きて地獄から帰れるとでも？なんと妄想甚だしいことでしょう。
+パンデモニカは君の顔に手をやり、手慣れた手つきで首をへし折った。
+ありがたい申し出です。そろそろコーヒーを飲みたくて。
+アレがないと自分が保てなくなるんです。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">1.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Beelzebub, The Great Fly  •
+You want advice, but you have nobody to ask.
+You haven't found any cute demons yet.
+And no matter how cute I might be, I'm but a narrator.
+Go find some harem worthy maidens so you can pester them for advice to your heart's content.
+        </source>
+        <target>•  大いなる蠅のベルゼブブ  •
+まだ悪魔の娘を見つけていないのか。
+ヒントが欲しいのに聞く相手がいないのは辛いものだな。
+吾輩が可愛いのは承知の上だが、ナレーターの務めがあるのでね。
+ハーレムに加えるにふさわしい娘を仲間に加えれば、何か聞き出せるやもしれんな。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">1h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Modeus, the Lustful Demon  •
+You and me. Now.
+Deal. No questions asked.
+No time. Busy gathering girls.
+They always say that... and they always try to run away.
+I'll have to break your knees, just in case.
+She pulled out a sledgehammer. It was not going to be pretty.
+Demon harem? You poor fool... They will rip you to shreds, and I HAVE to see this.
+        </source>
+        <target>•  好色悪魔のモデウス  •
+ふたりきり、になっちゃった。
+だな。質問は受け付けない。
+時間がないんだ。ハーレム作りで忙しくてな。
+そんなこと言って……どうせ逃げちゃうんでしょ。
+念のため、膝を折っておくね。
+どこからともなくスレッジハンマーを取り出したモデウスは、もはや可愛い悪魔とは言えなかった。
+悪魔のハーレム？おばかなのかな……みんなキミをズタズタにしそうだし、ついてってあげる。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">2.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Pandemonica, the Tired Demon  •
+Since we travel together, I might as well do my job.
+You've noticed how exploring hell takes a lot of will? In hell, if you run out on will - you die.
+Walking trough spikes takes twice the will.
+The trick is to spend as little time on spikes as possible.
+Thank you for relying on Hell's Customer Service.
+How would you rate your overall satisfaction with provided help, on a scale from 1 to 10?
+Thank you for your feedback. We are here to serve.
+Whoa... Never got a ten before...
+        </source>
+        <target>•  困憊悪魔のパンデモニカ  • 
+一緒に旅をするのですから、私も仕事をした方がよろしいですね。
+地獄を探索するにあたって、意思が必要だということはご存知ですか？
+針山を通る際は2倍の意思を消費します。
+あまり針に時間をかけないことがカギとなるでしょう。
+地獄お客様窓口をご利用していただきありがとうございました。
+今回のサービスに対して、10段階で評価していただけますか？
+ご評価ありがとうございました。今後ともよろしくお願い申し上げます。
+おお……10点満点は初めてです……</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">2h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Cerberus, the Triple Demon  •
+Are you a human? A real human? Please, take us with you.
+Deal. No questions asked.
+This is getting too easy. I have questions.
+Yes! At last! It's time to corrupt the mortal realm!
+We need a human to cross the hell's gate. You don't have to be in one piece, though.
+They jumped you like rabid dogs. Canine sounds included. The cuteness of it all gave you a heart attack.
+        </source>
+        <target>•  三つ子悪魔のケルベロス  •
+人間？ホントに人間？ねえね、ボクたちをつれてって。
+決まりだ。何も聞かんぞ。
+ずいぶん簡単だな。ちょっと聞きたいんだが。
+やった！ついに！人間界を堕落させるトキが来たんだね！
+地獄の門をくぐるには人間が要るんだ。別に一部でいいんだけどね。
+鳴き声をあげながらケルベロスたちが君にとびかかる。あまりの可愛さに君の心肺は活動を停止……死んだのだ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">3.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Modeus, the Lustful Demon  •
+•  Pandemonica, the Tired Demon  •
+Advice? Easy. Skip all the puzzles, gather all the bitches and let's engage in proper harem activities.
+Please, forgive Modeus. Most demons are like her. Lust for sin is in our blood, hard to keep it in check.
+As for the puzzle... Try to not spend too much time kicking around those undead slaves and you should be fine.
+        </source>
+        <target>•  好色悪魔のモデウス  •
+•  困憊悪魔のパンデモニカ  •
+ヒントぉ？カンタンだよー。パズルはぜーんぶスキップしちゃお。サクッと女の子ゲットして、はやくハーレムでいちゃいちゃしよー。 
+モデウスのご無礼をお許しください。普通の悪魔はみなあのようなものなのです。罪を犯す欲求は血に刻まれ、抗うのは困難です。
+パズルですが……あまりアンデッドに時間をかけなければ大丈夫ですよ。
+
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">3h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Malina, the Sour Demon  •
+Great, more braindead idiots... Never seen your ugly face before.
+What are you playing at?
+I'd sure love to play with you.
+This is delicious. Please, insult me more.
+Like what... video games? Sure, why not. As long as you're okay with turn based strategies.
+Fantastic. Just my luck to find another masochist creep.
+She made a swiping motion and a fountain of blood exploded from your devastated throat.
+        </source>
+        <target>•  毒舌悪魔のマリーナ  •
+あーまた能天気な馬鹿が来たか……初めて見るアホ面だな。
+何しに来たの？
+COOPキャンペーンの実績を取る相手を探している。
+たまらんな。もっと罵ってくれないか？
+それって……PCゲーのこと？アンタがターン制 シミュレーションゲームやるってならいいけど。
+また変態マゾ筋肉のお出ましか。サイコーだね。
+マリーナが空を切ったかと思うと、君の頸動脈から赤いものが噴き出した。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">4.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Pandemonica, the Tired Demon  •
+•  Cerberus, the Triple Demon  •
+You don't look like you need help with this one.
+Or you just wanted to talk?
+Hey, do you smell that? Orange, berries and... vodka?
+There's no doubt. That's got to be Malina.
+She acts hard to get, but maybe you'll figure her out.
+Then we will all hang out and it's gonna be FUN!
+        </source>
+        <target>•  困憊悪魔のパンデモニカ  •
+•  三つ子悪魔のケルベロス  •
+今回のパズルは特に話すことはなさそうですね。
+もしかして話がしたかったんですか？
+ねえね、匂いしない？オレンジ、ベリーに……ウォトカ？
+間違いないよ、きっとマリーナだ。
+あの子に友だちはいないけど、ご主人なら仲良くなれるかもだよ。
+みんなでいっしょに遊べばきっと楽しいよ！わんわん！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">4h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Zdrada, the Bitch Demon  •
+Yo. I've heard about your harem. I'm in.
+Wait. I have a feeling I'll regret it.
+It's not really a harem anymore. We just play turn based strategies.
+Holy shit. Let me put you out of your misery.
+Your vision swam. The last thing you noticed was a knife buried hilt deep between your ribs.
+Too bad, I'm coming anyway. Go ahead, try to stop me.
+        </source>
+        <target>•  性悪悪魔のズドラーダ  •
+よお。ハーレム作ってんだろ。ウチも入るわ。
+待て、嫌な予感がする。
+もうハーレムではない。ターン制シミュ同好会だ。
+陰キャか？また来世な。
+視界が揺らめいたかと思うと、肋骨の間にナイフが埋まっていることに気づく。君の冒険は終わった。
+残念でしたー。もう入っちゃったもんねー。止められるもんなら止めてみな。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">5.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Malina, the Sour Demon  •
+•  Cerberus, the Triple Demon  •
+What? Never played rhythm based dungeon crawlers, have you?
+If the rhythm of the spikes is not to your liking, just kick some rocks around until it does.
+This place stinks of smoke. Zdrada must be close by.
+Oh no... Please no...
+        </source>
+        <target>•  毒舌悪魔のマリーナ  •
+•  三つ子悪魔のケルベロス  •
+はあ？あんたネクロダンサーやったことないの？
+針が出るタイミングが気に入らなかったら、石でも蹴ってりゃいいじゃん。
+すごい煙の臭いがするよ！ズドラーダだ！
+うげぇ……勘弁してよ……</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">5h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Azazel, the Curious Angel  •
+Oh my heavens! What would a living human be doing in hell? Most unusual.
+Looking for demons.
+Looking for angels.
+You won't find many here. Lucky for you, I know a better place.
+Please, hold my hand.
+Who would've guessed that lying will get you into heaven.
+Say goodbye to your demon harem, though.
+Oh, you too? Let me guess, thesis on Modern Sin? Or is it Demonology? We should join forces.
+        </source>
+        <target>•  探求天使のアザゼル  •
+なんとまあ！生者が地獄で何をしているのでありますか？本官、初めて見ましたよ。
+悪魔を探している。
+天使を探している。
+ここにはあまりいないでありますよ。 ご安心を、本官が案内するであります。
+ささ、捕まってください。
+嘘をついて天国に行けるだなんて誰が予想しただろう。
+ともあれ、もう悪魔のハーレムは作れそうにない。
+おお、貴兄もでありますか。さしずめ現代罪や、悪魔学の研究でありますね？自分も調査に加わるであります。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">6.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Zdrada, the Bitch Demon  •
+•  Malina, the Sour Demon  •
+•  Pandemonica, the Tired Demon  •
+Don't look at me for puzzle hints. I'm not a nerd.
+Maybe go kill yourself on some spikes. It'll be amusing.
+My sister's always like that. I can't believe you invited her...
+Yeah. What were you thinking, man?
+Glad you invited Malinka, though.
+She spends too much time, all alone, playing the most nerdy video games I've ever seen.
+Can you please shut up?
+Do you know how turned on she gets while playing them?
+That one time when she...
+Kill one of us. Me or her. Please. Fast.
+*KILL THEM BOTH*
+*KILL YOURSELF*
+Just leave them be. You get used to it, eventually.
+What do you think you're doing? Hey! W-
+You had enough. You decided to follow Zdrada's advice and killed yourself on the spikes.
+        </source>
+        <target>•  性悪悪魔のズドラーダ  •
+•  毒舌悪魔のマリーナ  •
+•  困憊悪魔のパンデモニカ  •
+ウチにヒント聞くなよ。オタクじゃねんだし。
+あっ、針山あんじゃん。死んでこいよ。面白そーだし。
+姉貴は昔っからこんな調子で……なんで引き入れたんだ……
+ホントだよ。何考えてんだ？
+マリっちなんかも呼じゃってサァ。
+こいつぼっちすぎて、いっつも1人でキモオタゲームしてるんだわ。
+黙っててくんない？
+ゲームしてっとき、どんだけうっさいか知ってっか？
+あん時ぁ……
+アタシかアイツを殺せ。頼む。早く。
+両方殺す
+自殺する
+放っておきましょう。そのうち慣れますよ。
+ちょっと何しようとしてるんですか？あっ！やめ――
+もううんざりだ。ズドラーダの言う通り針山に突っ込んで自殺した。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">6h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Justice, the Awesome Demon  •
+Yo, did you just solve that puzzle? That's awesome!
+It took some work. Wanna join my harem?
+I just skipped it in the menu. Wanna join my harem?
+You don't have to ask me. I'd never miss a party.
+That totally sounds like something I would've done.
+Sure, let's go. The more the merrier, right?
+        </source>
+        <target>•  激ヤバ悪魔のジャスティス  •
+よっ！アンタあのパズル解いちまったのか？すげぇな！
+だいぶてこずったな。ハーレムに入らないか？
+メニューからスキップしただけだ。ハーレムに入るか？
+聞くまでもないだろ？パーティーとあらば参加しないわけにはいかないしな。
+もしオレも解けって言われたらそうするだろうな。
+よし、じゃあ行こう。賑やかな方が楽しいだろ？</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">7.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Azazel, the Curious Angel  •
+•  Modeus, the Lustful Demon  •
+This one looks tricky. Might require some testing to find the perfect order of moves.
+Please, take your time. Miss Modeus here is sharing with me her considerably warped view on love.
+...things can get violent, so moderation is important. People die if you love them too much.
+How fascinating. Please expand on that. I want to know all the details.
+        </source>
+        <target>•  探求天使のアザゼル  •
+•  好色悪魔のモデウス  •
+なかなか奇をあてらったパズルでありますね。突破するには試行錯誤が必要そうであります。
+どうぞゆっくり解いてほしいであります。モデウス殿からかなり歪んだ恋愛論をご教授していただいているのでありますよ。
+……乱暴することもあるよね。だからほどほどがいちばん。愛しすぎるとみんな死んじゃうから。
+なんともすごい話であります。もっと話していただけませんか？詳細を知りたいであります。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">7h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Lucifer, the CEO of Hell  •
+We meet at last. You've proved yourself worthy by passing all my trials.
+Pledge your soul to me and I'll make you my most treasured slave.
+Yes my queen!
+No, thanks. But you can join my harem.
+Eager little soul...
+As you knelt, she planted a kiss of your forehead, and your life melted away.
+What are you trying to accomplish? You think you can enslave demons to your will?
+Call me master. And ask for permission before you speak.
+I can offer coffee, turn based strategies and chocolate pancakes.
+I see I have to teach you your place.
+She made a hand gesture, and all your blood turned into vinegar. It's hard to explain the feel.
+Really? Is that it? You come here, and try to buy me over with pancakes?
+You're lucky I have a thing for pancakes.
+I think you've convinced me. That harem of yours may prove to be entertaining after all.
+        </source>
+        <target>•  地獄CEOのルシファー  •
+やっと会えたな。全ての試練を突破し、貴様は己の価値を証明した。
+魂を余に捧げると誓えば、奴隷として寵愛してやろう。
+はい、女王様！
+結構だ。それよりハーレムに入らないか？
+健気なやつめ……
+君が跪くと、ルシファーは君の額に口づけをした。魂が抜け出て行くのを感じる。
+何を戯れるか、貴様は悪魔を奴隷にできるとでも考えているのか？
+俺をご主人様と呼べ。話す前に伺いを立てろよ。
+コーヒー、ターン制シミュ、チョコパンケーキがあるぞ。
+立場というものを理解していないようだな。
+ルシファーが手を振ったかと思うと、君の血液は酢に変わった。何を言っているのかわからないと思うが、恐ろしいものの片鱗を味わった。
+何だと？正気か？地獄の奥底まで来てパンケーキを食わせようと言うのか？
+余の好物がパンケーキで良かったな。
+余を納得させようとは……貴様のハーレムは案外楽しめそうだな。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">8.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  ???  •
+•  Judgement, the High Prosecutor  •
+YOU TRULY THOUGHT YOU COULD JUST WALK AWAY?
+AFTER ALL YOU HAVE DONE?
+You felt the biting cold of chains on your skin. Followed by fire, burning the flesh from your bones.
+It felt as if you've died a thousand deaths. Yet as the flames subsided... Somehow, you were still alive.
+I ONLY JUST FOUND YOU, TRESPASSER!
+SO DON'T DIE ON ME YET.
+WE WILL SPEND A LOT OF TIME TOGETHER, YOU AND I.
+IGNITE THE SIN MACHINE! SUFFERING MUST BE MADE!
+        </source>
+        <target>•  ？？？  •
+•  最高検事総長ジャッジメント  •
+このまま逃げられるとでも思ったか？
+これで終わったとでも思ったか？
+冷たい鎖が君の首筋を撫でる。血肉はおろか、骨まで溶かす炎が後に続く。
+幾千もの貴様を焼きつくしたような気がするが、炎が消えても……まだ俺の前に立つか。
+だが捕まえたぞ慮外者め！
+簡単に諦めてくれるなよ。
+俺たちはこれから長い永い時を共に過ごすのだからな。
+原罪執行装置起動！苦しんでもらうぞ業人め！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Judgement, the High Prosecutor  •
+•  Pandemonica, the Tired Demon  •
+•  Cerberus, the Triple Demon  •
+•  Lucifer, the CEO of Hell  •
+HOW DO YOU LIKE THE SIN MACHINE, TRESPASSER?
+SURRENDER AND LET IT CONSUME YOU!
+No, wait! Don't give up! You need to get us out of here!
+And I'm still looking forward to my coffee.
+LEAVE HOPE! HIS FATE IS SEALED!
+Judgement, dear. This man may not know it, but he belongs to me. Could you please not damage him?
+BE SILENT! REAL WORK IS ABOUT TO BEGIN!
+        </source>
+        <target>•  最高検事総長ジャッジメント  •
+•  困憊悪魔のパンデモニカ  •
+•  三つ子悪魔のケルベロス  •
+•  地獄CEOのルシファー  •
+執行装置の具合はどうだ？慮外者め。
+降参すれば貴様を消し去ってやるぞ！
+だめー！諦めないで！まだボクたちを出してないでしょ！
+コーヒーだけが楽しみで来た悪魔もいるんですよ。
+希望を捨てろ！運命は既に定まっている！
+やあジャッジメント。この男は私のものだ。あまり傷つけないでほしいんだがね。
+外野は黙っていろ！本当の地獄を見せてやる！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9_1.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Judgement, the High Prosecutor  •
+•  Lucifer, the CEO of Hell  •
+•  Justice, the Awesome Demon  •
+•  Azazel, the Curious Angel  •
+THOSE CHAINS THAT BIND YOU ARE MADE OF THINGS THAT BROUGHT YOU HERE.
+YOUR EGO. YOUR GREED. YOUR LUST. YOU ARE YOUR OWN TORTURER.
+Enough! High Prosecutor, I order you to stand down at once!
+NO AUTHORITY STANDS ABOVE PUNISHMENT!
+Keep going, Judgement! You are on the roll!
+Yes, please continue. This is A+ material so far.
+I'm supposed to be the goddamn Queen of Hell! Why is nobody ever listening to me?
+        </source>
+        <target>•  最高検事総長ジャッジメント  •
+•  地獄CEOのルシファー  •
+•  激ヤバ悪魔のジャスティス  •
+•  探求天使のアザゼル  •
+貴様を縛る鎖はみな、貴様が持ち込んだもので作った。
+エゴ、欲求、退廃、己の禍で鞭打つがいい！
+十分だ！最高検事総長、退廷を命じる！
+司法は権力者の圧力に屈しない！
+いいぞぅジャッジメント！ノリに乗ってるな！
+本官も続けてほしいであります。これをレポートにすれば次期評価はA+待ったなしであります。
+余は地獄の女王だぞ！なぜ誰も話を聞かんのか！？</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9_2.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Judgement, the High Prosecutor  •
+•  Modeus, the Lustful Demon  •
+•  Malina, the Sour Demon  •
+•  Zdrada, the Bitch Demon  •
+YOU TRULY THINK YOU CAN BREAK FREE OF THOSE SHACKLES?
+YOU SHOULD KNOW... HOPE LEADS TO DISAPPOINTMENT, AND DISAPPOINTMENT TO DESPAIR.
+CHAINS OF DESPAIR ARE THE MOST DELIGHTFUL.
+You must be cursed Malinka. You just found a fellow nerd and he's already done for.
+Knowing my luck, he played Necropolis anyway.
+I should've kept him for myself after all...
+YES! REGRET EVERYTHING YOU'VE EVER DONE!
+I love how you did your hair.
+That outfit kills! Ten out of ten!
+LIEEEEEEEES! THEY WON'T SAVE YOU FROM YOUR FATE!
+I know. That's why I can be honest.
+I also really like the claws!
+IS THAT SO? IN THAT CASE, THANK YOU! I GUESS?
+NOW LET'S GET BACK TO SUFFERING!
+        </source>
+        <target>•  最高検事総長ジャッジメント  •
+•  好色悪魔のモデウス  •
+•  毒舌悪魔のマリーナ  •
+•  性悪悪魔のズドラーダ  •
+枷から逃れられようとも、本気で思っているのか？
+まだ分からんようなら教えてやろう……希望は失望を生み、失望は絶望に繋がると！
+絶望の鎖は楽しいぞ。
+こじらせたマリっちみてーだ。オタ仲間に目をつけられたんじゃ、アイツも終わりだな。
+自分の運の悪さを知ってるくせにネクロポリスに挑んでるみたいだ。
+こんなことならちゃんと飼ってあげればよかった……
+いいぞ！後悔しろ！生まれついた日から今日までをなぁ！
+君の髪は綺麗だな。
+その衣装デザイン最高！10点満点！
+黙れええええええええ！貴様の運命は変えられん！
+そうだな。だから今伝えるべきだと思った。
+爪もマジでイカしてるぞ！
+そう？そうなのか？うん、ありがと！じゃあいくぞ？
+さあ苦しみに悶えるがいい！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9_3.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Judgement, the High Prosecutor  •
+ANY LAST WORDS BEFORE THE REAL PAIN BEGINS?
+Only thing I regret is not seeking you sooner.
+Being punished by you makes all sins worth it.
+QUIT YOUR CHEAP FLATTERIES! YOU MAKE MY JOB DIFFICULT!
+But damn, you have amazing eyes.
+Did I mention how much I love your hair?
+Look. I don't really want to do this. But the pacts been sealed. Nothing will prevent your damnation.
+However... I could postpone your torment a few years, if you leave and never disturb hell again.
+Our fates are one. I will kill you and you'll suffer. But it does not have to be today...
+SO CONSIDER YOURSELF LUCKY AND GET OUT OF MY SIGHT!
+...
+... ...
+... ... ...
+I SAID YOU ARE FREE TO GO! BEGONE!
+WHAT? YOU WANT TO INVITE ME TO YOUR HAREM? DON'T BE RIDICULOUS!
+You'd share roof with an immortal avatar of pain, blood-sworn to murder you through torture?
+Wouldn't want it any other way.
+Believe me, I have worse in my harem already.
+Wait. You are serious?
+Seeing how far off proper ritual we are already, I might as well give it a shot.
+        </source>
+        <target>•  最高検事総長ジャッジメント  •
+本当の苦しみを前に、何か言うことはあるか？
+もっと早く君を見つけられればよかったと後悔している。
+君に罰せられるのなら、俺の罪も価値あるものとなった。
+下らない口説き文句はやめろ！やりにくいんだよ！
+そうか、すまん。だが、君の目に見とれてな。
+君の髪がどれほど素晴らしいか話していいか？
+もー。俺だってこんなことやりたくないんだ。けど契約は契約だからさ。お前の破滅は避けられないってわけ。
+だけど……お前が地獄から出て行って邪魔さえしなければ、執行を数年遅らせることができる。
+俺たちの運命はひとつ。お前はいつか苦しんで死ぬ。けど今である必要はない……
+運が良かったな。今すぐ俺の前から消え失せろ！
+……
+…………
+………………
+消えろと言ったんだ！早く行け！
+まさか、ハーレムに誘うだなんてバカなこと言うなよ！
+不死身の苦しみの化身と一緒に暮らすだと？ 何度もいたぶって殺した相手と？
+他に道はない。
+大丈夫、俺のハーレムにはもっとひどいのもいる。
+おい、本気で言ってるのか？
+例外中の例外だが、どうなるか見届けてやろう。ものは試しと言うしな。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9_4.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Lucifer, the CEO of Hell  •
+•  Justice, the Awesome Demon  •
+If you can't do it, just skip it in the pause menu. I don't want to be sitting here all day.
+Just look at all this mess. It seems nobody used the hell's gate in quite some time...
+Makes me wonder how you got here in the first place.
+It looks like he can do miracles. He somehow got you out of your office after all.
+True. He's the first one to not take the slave offer.
+For a second there, I hoped he would give YOU a slave offer.
+Justice... Don't give people ideas that will get them murdered.
+Oh, come on. I'm sure you'd enjoy some maid roleplay.
+        </source>
+        <target>•  地獄CEOのルシファー  •
+•  激ヤバ悪魔のジャスティス  •
+クリアできぬと言うのならメニューを開いてスキップすればよかろうに。このまま座っていてはパンケーキがおあずけではないか。
+この散らかりようを見ろ、もう誰も地獄の門をくぐっていないようだ……
+しかし、お前はどうやってここまで来たんだ？
+こいつは奇跡を起こせるんだよ。実際、あんたをオフィスから連れ出しただろ。
+確かにな。奴隷の申し出を断ったのは貴様が初めてだ。
+実はこいつの奴隷になるんじゃないかって期待してたんだけどな。
+ジャスティス……無益な殺生をさせるようなことは言うものではないぞ。
+おいおい、怒るなって。あんたもきっとメイドさんごっこが気に入ると思うぞ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">9h.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+Thus, your journey has come to an end.
+You have successfully took girls from hell.
+And was henceforth known as the Helltaker.
+It was, however, not an easy life to live.
+It was sure to be short and full of suffering.
+But life is full of suffering no matter how you live it.
+So you might as well have some fun when you're at it.
+        </source>
+        <target>そして、君の旅は終わりを迎えた。
+地獄から娘たちを連れ出したのだ。
+それ以来、君は地獄から連れし者――ヘルテイカーと呼ばれるようになる。
+しかし、暮らしは楽なものではなかった。
+短い間にもかかわらず、苦難はどっと押し寄せてきた。
+しかし、人生はどう生きようと苦しみに満ちている。
+なら、今のうちに楽しんだ方がいいかもしれない。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Azazel, the Curious Angel  •
+•  Helltaker  •
+Pancakes.
+How long have I been here?
+A few weeks.
+It feels like forever.
+The things I've seen...
+The things I've done...
+I could write a spectacular paper on this, but nobody would believe me. It's just too surreal.
+Oh...
+And my research has barely scratched the surface. Want to join me in my studies today?
+You study too much. Eat your pancakes.
+        </source>
+        <target>•  探求天使のアザゼル  •
+•  ヘルテイカー  •
+パンケーキだ。
+本官がここに来てどれくらいになるでありますか？
+数週間だな。
+まるで永遠みたいな気がして……
+見てきたものや……
+してきたことを……
+論文に全部ありのままを書いても、誰にも信じてもらえなさそうであります。荒唐無稽にも限度があるであります。
+気の毒に……
+まだ本官の研究は表層を触っただけにすぎません。今日は自分と研究するのはいかがでありますか？
+根を詰めすぎだ。パンケーキを食べなさい。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_az.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Cerberus, the Triple Demon  •
+•  Helltaker  •
+Pancakes.
+We messed up.
+Harrasing neighbors again? What did you do? 
+...
+Why is there police at the door?
+        </source>
+        <target>•  三つ子悪魔のケルベロス  •
+•  ヘルテイカー  •
+パンケーキだ。
+失敗した。失敗した。失敗した。
+またお隣さんに迷惑かけたのか。今度は何をした？
+……
+なんで警察まで来ているんだ？</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_ce.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Police  •
+•  Helltaker  •
+Police! Open the door.
+Open. (end of the game)
+Don't open.
+We know you're in there! Open the door NOW!
+Pancakes?
+Oh, thanks. We still have questions though.
+...
+And that was the story of the Helltaker.
+Narrated for you by good old Beelzebub.
+Quite a silly tale, I know.
+To be honest... downright abhorrent, actually.
+Horrible story about horrible people.
+But perhaps... you found some joy in it.
+Maybe a laugh or two?
+Still... thank you for keeping this old fly some company.
+Until next.
+THE END
+        </source>
+        <target>•  警察  •
+•  ヘルテイカー  •
+警察だ！ドアを開けろ。
+開ける。(ゲーム終了)
+開けない。
+そこにいるのは分かっているぞ！ドアを開けろ！
+パンケーキいかがですか。
+おお、どうも。ちょっと聞きたいことがあるんだが。
+……
+こうしてヘルテイカーの物語は幕を閉じる。
+ナレーションは旧き佳きベルゼブブがお送りした。
+なんとも馬鹿げた話であるな。
+正直……忌々しいとも思っている。
+ろくでもない連中のろくでもない話だ。
+だがそれでも……君に楽しんでもらえたなら幸いだよ。
+笑えるだろう？
+それでは……この古蠅に付き合ってくれてありがとう。
+また会う日まで。
+THE END</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_ed.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Justice, the Awesome Demon  •
+•  Helltaker  •
+Pancakes.
+Awesome. I have a question though.
+Shoot.
+The girls say you never take off your shades. Why is that?
+I could ask you the same.
+Oh, me? It's 'cause I'm blind.
+That's my story. Care to share yours?
+Maybe one day...
+Oh, come on. The girls are already taking bets.
+I'm losing 10 bucks if you don't have laser vision.
+        </source>
+        <target>•  激ヤバ悪魔のジャスティス  •
+•  ヘルテイカー  •
+パンケーキだ。
+美味いっ！質問いいか？
+構わない。
+女の子たちから聞いたんだが、なんでアンタずっとサングラスかけてるんだ？
+それはお互いさまだろう。
+オレかい？「めくら」ってヤツだよ。
+こっちは話したんだ。アンタの話を聞かせてもらおうか？
+昔……
+ちょっと待て、女の子たちと賭けてんだ。
+レーザヴィジョン持ってないか？そしたら10ドル損しなくてすむ。
+
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_ju.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Lucifer, the CEO of Hell  •
+•  Helltaker  •
+Another batch of pancakes done, I see.
+And it's soooooo good...
+Thanks for the help.
+Don't mention it. It's the least I can do.
+Though I have to say, I still can't figure out how you get them perfectly thin every time.
+And the way you spin them in the air. There must be some sorcery involved.
+Experience.
+Yeah sure. Better go give everyone their pancakes.
+        </source>
+        <target>•  地獄CEOのルシファー  •
+•  ヘルテイカー  •
+パンケーキが焼けたか、さっそくいただこう。
+うーん、すっっっっっっごくおいしい……
+手伝ってくれてありがとう。
+そう言うな、余にできることをしたまでだ。
+しかし、どうやったらそんなに生地を薄くできるんだ？ まだわからなくてな。
+空中で生地を回すのもだ。何か魔術を使っていると思ったんだが。
+経験だ。
+なるほどな。みんなにも食わせてやるといい。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_lu.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Malina, the Sour Demon  •
+•  Helltaker  •
+Pancakes.
+Do you know how hard it is to find new turn based strategies we could play?
+Almost everything mankind produced is either a half-assed sequel or a shitty ripoff.
+I would like to play them anyway.
+Same here, unfortunately.
+We will need a lot of alcohol.
+        </source>
+        <target>•  毒舌悪魔のマリーナ  •
+•  ヘルテイカー  •
+パンケーキだ。
+悪魔がプレイするに値するターン制シミュレーションゲームを探すのがどれだけ難しいか分かるか？
+最近の人間が作んのはどいつもこいつも中途半端な続編や駄作ばっかりなんだよな。
+とりあえずプレイすればいいじゃないか。
+結局それに落ち着くんだよな。
+だからアタシたちには酒が要るんだ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_ma.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Modeus, the Lustful Demon  •
+•  Helltaker  •
+Pancakes.
+...
+You're reading... romantic comedy?
+Never heard of this "romance" stuff before. It's the kinkiest thing I've ever seen.
+Maybe I've been doing things wrong all this time?
+What, wanna go on a date?
+I've always known you were a perverted degenerate.
+        </source>
+        <target>•  好色悪魔のモデウス  •
+•  ヘルテイカー  •
+パンケーキだ。
+……
+それは……ラブコメか？
+はじめて「恋」ってかんじがわかったかもしんない。胸がきゅんきゅんしてとまらないの。
+もしかしてあたし、ずっとまちがってたのかな？
+ふむ、ならデートにでも行くか？
+そんなヘンタイちっくなこと、よく言えちゃうね！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_mo.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Pandemonica, the Tired Demon  •
+•  Pandemonica, the Sadistic Demon  •
+•  Helltaker  •
+Pancakes and coffee.
+...
+Ah! The "Tired Demon" no longer.
+Is it over-extracted again?
+Oh no... It's quite alright actually. You even filtered it properely this time.
+Keep it up and you might still survive the day with no fingers broken.
+Yeah...
+But do feel free to mess it up. The local hospital proved quite competent so far.
+Next one at 5:15pm, double espresso, yes?
+It's your job to remember. Not mine.
+        </source>
+        <target>•  困憊悪魔のパンデモニカ  •
+•  ドS悪魔のパンデモニカ  •
+•  ヘルテイカー  •
+パンケーキにコーヒーだ。
+……
+よし！これで「困憊悪魔」とはおさらばです。
+また淹れ過ぎていないか？
+いえいえ……結構なお点前ですよ。実際美味しいです。今回はフィルターもちゃんと使えていますし。
+頑張ってくださいよ、このままじゃ折れてない指を探す方が大変になりますから。
+はい……
+別に治してもらってもいいんですよ。ここの医者はなかなか優秀ですし。
+次は午後5:15にダブルエスプレッソでいいんですよね？
+覚えるのは私の仕事じゃなくて貴方の仕事ですよ。
+
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_pm.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Judgement, the High Prosecutor  •
+•  Helltaker  •
+Pancakes.
+TRESPASSERS SEEK TO INVADE OUR DOMAIN! SHOULD I DISPOSE OF THEM?
+No need. I'll take care of this.
+Sure, have fun.
+        </source>
+        <target>•  最高検事総長ジャッジメント  •
+•  ヘルテイカー  •
+パンケーキだ。
+慮外者が我らの領地を汚さんとしている！処断するか？
+問題ない。俺が対応しよう。
+そっか、頼むわ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_xx.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Zdrada, the Bitch Demon  •
+•  Helltaker  •
+Pancakes.
+Sure. But I could use some fire.
+No smoking in the house.
+Or what? You'll punish me? Go ahead, I've been a very bad girl.
+You'd enjoy that, wouldn't you?
+Go screw yourself.
+        </source>
+        <target>•  性悪悪魔のズドラーダ  •
+•  ヘルテイカー  •
+パンケーキだ。
+ふーん。でも火ィ点けたいからサ。
+ここは禁煙だぞ。
+だからァ？お仕置きするんですカァ？したけりゃすれば？ウチ悪い子だしィ。
+楽しんでるみたいでよかった。
+くたばれオッサン。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">10_zd.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Lucifer, the CEO of Hell  •
+•  Justice, the Awesome Demon  •
+•  Beelzebub, The Great Fly  •
+•  Helltaker  •
+What is this? Did someone opened a portal at last?
+Greetings little one. I am Beelzebub.
+And you must be the chosen one. The King of Hell.
+That means... I am nothing, but your humble servant.
+Enter this gateway and take your rightful throne.
+Hey. Is this a one-way banishment portal?
+Fuck.
+Beel! And here I hoped I'd never see your face again.
+Feeling's mutual, my dear Lucy.
+Old friend of yours?
+Don't believe a single word from Beelzebub The Exiled.
+Most dangerous kind of demon. Forever sealed inside the Abyss.
+Ask Justice. She was the High Prosecutor back then.
+It was awesome. Wish you've seen that epic battle.
+If you step through the portal, your soul will get imprisoned too. Only madness waits for you there.
+I've been here for quite some time and found no madness yet. Quite disappointing really.
+A bit of mad would be refreshing. All you can find here is darkness and loneliness.
+Just ignore this pest. I'll close the portal after dinner.
+I'll get out one day.
+We'll be ready.
+        </source>
+        <target>•  地獄CEOのルシファー  •
+•  激ヤバ悪魔のジャスティス  •
+•  大いなる蠅のベルゼブブ  •
+•  ヘルテイカー  •
+何だこれは？ついにポータルを開けたのか？
+ご機嫌よう小さきものよ。吾輩はベルゼブブ。
+君は選ばれし者というわけか。地獄の王と。
+まあ……吾輩は何でもない、ただの下僕にすぎぬよ。
+このポータルをくぐり、玉座につくといい。
+ちょっと、このポータル一方通行じゃないか？
+くそっ。
+ベル！貴様の面なぞ二度と見とうなかった。
+同感だよ。愛しのルシちゃん。
+友だちか？
+ベルゼブブの言う事なぞ気にするな。あいつは追放者だ。
+あまりに危険だから地獄の最深部に幽閉していた。
+ジャスティスに聞いてみろ。当時の最高検事総長だ。
+ありゃ凄かったな。アンタにもあの戦いを見せてやりたかった。
+一度ポータルの向こうへ落ちれば、貴様の魂も囚われてしまう。そこに残るのは狂気だけだぞ。
+永いこといるが、発狂ひとつしないよ。まったくがっかり残念だ。
+ちょっとでも狂気があれば楽しいのに。ここは闇と孤独が占めるばかりだ。
+あんな奴は放っておけ。ご飯を食べたらポータルは閉じてしまおう。
+いつかは出てやるぞ。
+当方に迎撃の用意あり。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">11.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Beelzebub, The Great Fly  •
+You find yourself surrounded by the void.
+Shades of darkness you never knew existed.
+You feel them rather than see them. Sight is no longer a concept.
+Then, you are suddenly sick. With every illness known to man.
+But you are not dying. Death is no longer a concept either.
+You hear the buzzing. Thousands of flies swarm around you.
+Then, a cloying wave hits you. The sweet smell is overwhelming. Unbearable...
+Yet over the years to come, you'll learn to love it.
+What is it now...
+Wait, what...?
+You? How did you...
+...
+I simply can't believe you just did that.
+Have you really bought that King of Hell crap? No, that simply can't be it. So why...
+Wait. I don't think I really want to know.
+Since we find ourselves stuck here for the foreseeable future...
+I think a proper introduction should be made?
+I have many names. The Sovereign of Pestilence, The Warden of Decay, The Mistress of the Flies, The...
+Wait, where are my manners? I have a guest. I should make myself more presentable.
+Here. I think you will find this form a little more comfortable to converse with.
+Where was I? Ah yes...
+...also known as The Mistress of the Flies and The Queen Crimson. Pleased to meet your acquaintance.
+Welcome to the Abyss. Make yourself at home.
+Here's an idea! I'll show you around my castle. I think you'll love what I did with the place.
+Why yes, I've built it myself. You'd be surprised what kind of stuff can be made from the very fabric of darkness.
+Abyssal exile makes you seek the weirdest hobbies.
+Hey, I just noticed.
+You brought something with you. If I knew you could do that, I'd ask for some sweets. Demons love sugar.
+Chocolate pancakes.
+Chocolate pancakes.
+...
+This is the best day of my life.
+...
+And that was the story of the Helltaker.
+Narrated for you by good old Beelzebub.
+Please, forgive this little... self-insert at the end.
+I know, I know... It was not supposed to be a story about me. But I just couldn't help myself.
+You may have questions, I assume. Had this really happened? Where is the Helltaker now?
+Maybe YOU are the Helltaker?
+You just forgot after all those years in the Abyss.
+Or maybe YOU don't even exist?
+And I'm just a poor old fly talking to herself.
+Hoho. For the sake of the story, some questions are better left unanswered.
+Until next.
+THE END
+        </source>
+        <target>•  大いなる蠅のベルゼブブ  •
+自分が虚空に包まれると気づく。
+経験したことのない闇が辺りを埋め尽くす。
+何か見えるわけではない。感じる。 視覚はとうに機能していない。
+急に体調が悪くなった気がする。この世にある あらゆる病に一度にかかったようだ。
+だが死なない。ここには死の概念すらない。
+羽音が聞こえてくる。何千もの蠅が群がってくる。
+気持ちの悪い波が次々と襲い来る。甘い香りに圧倒され、もう耐えられない……
+だが、何年もすればやがて愛せるかもしれない。
+どういうことだ……
+えっ……ええ？
+君か？いったいどうして……
+……
+このようなことになるなど、にわかには信じられない話だよ。
+地獄の王だなんてホントに信じた？いやあ、まさか。ならどうして……
+いや待て、そんなことはどうだっていい。
+ずっとここで立ち往生するばかりにもいくまいて……
+きちんと自己紹介をした方がいいな。
+吾輩には名前がいくらでもある。 疾病の盟主、腐敗せし獄吏、蠅の女王……
+あれ、礼服をどこやっちゃったかな。お客様が来ているのだから、身だしなみを整えないと。
+おお、これでよし。これならお互い話もしやすかろう。
+どこまで話したっけ？ああ、そうだ……
+蠅の女王に深紅の女王とも呼ばれている。お会いできて光栄だよ。
+深淵の底へようこそ。どうぞくつろいでくれ。
+そうだ！吾輩の城に案内しよう。きっと気に入るはずだ。
+うむ、施工から何まで自分でやったんだぞ。闇の素材で ここまでのものができるのかと君もビックリ仰天するに違いない。
+深淵の底にいるとどうも趣味が偏ってしまってね。
+ああ、そうだ。
+何か甘いものはないかな？お菓子がいいな。 悪魔は砂糖に目がなくてね。
+チョコレートパンケーキなら。
+チョコレートパンケーキなら。
+……
+今日は人生最高の日かも。
+……
+ヘルテイカーのお話はこれでおしまい。
+ナレーションは旧き佳きベルゼブブがお送りしました。
+自己紹介が最後になるとは……どうかご容赦を。
+皆まで言うな……これは吾輩の話になるはずではなかった。でも、仕方なかったんだ。
+質問があるかもしれないな。これってホントにあった話？とか、ヘルテイカーはどこへ行ったの？とか。
+もしかしたらヘルテイカーは君かもしれないな。
+深淵の中に何年もいたら忘れるのも無理はない。
+もしかしたら君は存在しないとか？
+となると吾輩は独り言を並べ立てる憐れな蠅に過ぎぬな。
+フフ、謎がある方が魅力的な物語になる。答えは取っておくとしよう。
+また会う日まで。
+THE END</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">11_1.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+English version of Helltaker
+
+•  RESTART [R or RB]  •
+•  LIFE ADVICE [L or LB]  •
+•  PAUSE MENU  •
+MUSIC
+SOUND
+MAIN MENU
+RESUME
+SKIP PUZZLE
+
+
+-
+THERE IS NO ESCAPE!
+Mute
+Low
+Medium
+High
+I. Chains of Superbia
+II. Chains of Avaritia
+III. Chains of Luxuria
+IV. Chains of Despair
+
+Game by
+Łukasz Piskorz (twitter.com/vanripperart)
+Sound Design by
+Patryk Karwat (pkaudio.info)
+Music Tracks
+Apropos, Vitality, Epitomize and Luminescent
+from Mittsies (youtube.com/mittsies)
+Thanks for playing!
+
+•  Ancient Inscription  •
+Piece of a ritual. Forbidden lore, undoubtedly.
+https://vanripper.itch.io/artbook
+        </source>
+        <target>Japanese version of Helltaker
+
+リスタート [R,  右トリガー]
+ヒント [L,  左トリガー]
+•  メニュー  •
+音楽
+効果音
+メインメニュー
+戻る
+パズルをスキップする
+
+
+-
+逃げられない！
+ミュート
+小
+中
+大
+I. 傲慢の鎖
+II. 貪欲の鎖
+III. 色欲の鎖
+IV. 絶望の鎖
+
+Game by
+Łukasz Piskorz (@vanripperart)
+Sound Design by
+Patryk Karwat (pkaudio.info)
+Music Tracks
+Apropos, Vitality, Epitomize and Luminescent
+from Mittsies (youtube.com/mittsies)
+Thanks for playing!
+
+•  古代の碑文  •
+禁断の儀式の手順が記されている。
+https://kagerou01gata.itch.io/artbook</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">m.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Beelzebub, The Great Fly  •
+Greetings little one. Please don't mind me.
+It is just I, good old Beelzebub.
+
+NEW GAME
+CHAPTER SELECT
+EXIT
+
+Story of the Helltaker again? Interesting...
+Do you, by any chance, need a narrator?
+Why please, allow me. It will be a pleasure.
+You woke up one day with a dream.
+Harem full of demon girls.
+It was, however, not an easy dream to achieve.
+It could cost you your life.
+"When demon girls are involved, no price is high enough."
+You said, as you ventured down to hell.
+
+I've tried many times. Haven't found much success so far.
+You find yourself surrounded by the void.
+Press [ENTER or A] to continue.
+
+Is there anything else you desire?
+        </source>
+        <target>•  大いなる蠅のベルゼブブ  •
+ご機嫌よう小さきものよ。吾輩のことは気にするな。
+名はベルゼブブ、旧き佳き隣人だ。
+
+NEW GAME
+CHAPTER SELECT
+EXIT
+
+ヘルテイカーの旅路をもう一度辿るというのか？ 面白い……
+おお、それなら、ナレーターが必要やもしれぬな。
+喜んで務めさせてもらおう。
+ある朝、君は夢を見た。
+悪魔の娘たちでハーレムをつくる夢だ。
+まあ、簡単に叶えられる夢ではない。
+命を落とすこともありうる。
+「悪魔の娘っ子とイチャつけるんだ、俺のタマくらい安いもんだ。」
+と君は言い放ち、地獄に降り立った。
+
+何度も何度も挑んだが、まだまだ夢は果て無く遠い。
+自分が虚空に包まれると気づく。
+[ENTERかAボタン]で続ける。
+
+他に欲しいものでもできたかな？</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">m1.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+Chapter I - The Tired Demon
+Chapter II - The Lustful Demon
+Chapter III - The Triple Demon
+Chapter IV - The Sour Demon
+Chapter V - The Bitch Demon
+Chapter VI - The Curious Angel
+Chapter VII - The Awesome Demon
+Chapter VIII - The CEO of Hell
+Chapter IX - Judgement
+Chapter X - Epilogue
+        </source>
+        <target>Chapter I - 困憊悪魔
+Chapter II - 好色悪魔
+Chapter III - 三つ子悪魔
+Chapter IV - 毒舌悪魔
+Chapter V - 性悪悪魔
+Chapter VI - 探求天使
+Chapter VII - 激ヤバ悪魔
+Chapter VIII - 地獄CEO
+Chapter IX - ジャッジメント
+Chapter X - エピローグ
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">m2.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+Would you prefer to start from the beginning?
+Or shall I proceed to the later stages of the story?
+It starts like most tales do.
+The protagonist wakes up one day with a dream.
+But it is a feverish nightmare.
+His body and mind are no longer his own.
+        </source>
+        <target>最初から始めるかな？
+それともすきなステージからやる？
+導入はいつも通りだ。
+主人公が目を覚ます。
+頭がおかしくなりそうな、ひどい悪夢だった。
+身体も心も、もはや自分のものではない。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_0.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Lucifer, the Maid Demon  •
+•  ???  •
+Another one's awake! And such a handsome specimen at that.
+Are you the one who did this to me? Explain yourself at once!
+I'm trying to create a perfect fusion between human and demon.
+Let's put that delicious body through the next trial, shall we?
+Begin phase 2, Lucy.
+As you wish, Loremaster.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  メイド悪魔のルシファー  •
+•  ???  •
+目覚めたようだな！なかなかハンサムな被験体だねえ。
+お前が俺をこうしたのか？どういうことか説明しろ！
+人間と悪魔のカンペキなハイブリッドを作っている   ところでね。
+次は身体能力をテストしようじゃないか。
+ルーシー、フェーズ2に移行しよう。
+仰せの通りに、ロアマスター様。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_1.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Lucifer, the Maid Demon  •
+•  ???  •
+Mortality rate of the next trial is quite brutal. But don't worry, I have high hopes for you.
+Enough of this! Release me or I'll show you how REAL suffering looks like!
+According to data, you are Subject 66 of the 6th experimental batch. That's very promising.
+Triple six. Yes. There is power in such numbers. If anyone can pass my examination, it's you.
+Permission to speak, Loremaster?
+Yes, Lucy? What is it?
+Subject 66 died yesterday. This is Subject 67.
+Why, thank you for ruining my hopes.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  メイド悪魔のルシファー  •
+•  ???  •
+次のテストの死亡率はめちゃくちゃ高いぞ。      なあに心配するな。君には期待しているからね。
+やめろ！俺を解放しないと真の苦しみを刻んでやるぞ！
+データによると第6期の66号らしいじゃないか。     実に縁起がいい。
+666。悪魔の力を製造番号にも宿している。キミは    我が試験を合格するにふさわしい被検体というわけだ。
+発言許可をよろしいですか？ロアマスター様。
+いいともルーシー。どうしたのかな？
+66号は昨日死亡しました。こちらは67号になります。
+ふむ、我が期待を潰してくれてありがとうルーシー。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_2.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Lucifer, the Maid Demon  •
+•  Subject 67  •
+Still alive, Subject not-66?
+I'm coming for you, and if you think your toys will stop me, you're severely mistaken!
+Sure, whatever. Since your chances of survival are astronomically low, I might as well share with you a secret...
+You see, I'm not a real demon. I'm actually an angel.
+My research project required me to disguise as a demon and climb to the top of hell's hierarchy.
+You'd be surprised how easy taking hell over turned out to be.
+They've underestimated my curiosity. Isn't that right, Lucy?
+...
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  メイド悪魔のルシファー  •
+•  被検体67号  •
+まだ生きていたのか66号じゃない奴。
+震えて待ってろクソ野郎。オモチャごときでオレを   止められると思ったら大間違いだぞ！
+ふぅん、あっそ。なんにせよ、お前の生存率は天文学的数字だ。もちろん小さい方のな。冥土の土産に我が秘密を 教えてやるとしよう。
+実は我は悪魔ではない。天使だ。
+研究の一環で悪魔に紛れ、地獄の最高位にまで至った。
+地獄のトップをとって代わるのはビックリするほど   カンタンだったよ。
+好奇心をあなどるのはよろしくないと思わないかな、 ルーシー？
+……</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_3.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Subject 67  •
+I've committed countless atrocities, true. But it was all in the name of science.
+So that all sin can be analysed, documented and archived... Maybe even cured one day...
+That's what makes angels different from demons. Motivation behind actions.
+Keep talking to yourself, fiend. I'll have my hands around your neck soon enough.
+You don't believe I'm an angel, do you?
+I'd show you my halo... If only I knew where have I put it.
+Wait a moment... Didn't I-
+No, no, no! That's impossible. I must have left it in my other coat.
+The next test is particularly sadistic. Have fun.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  被検体67号  •
+自分が数多の残虐行為を犯したのは事実だ。しかしこれは科学の名のもとにしたに過ぎないのだよ。
+全ての罪を分析し、資料化し、記録すれば……      いつか必ず浄化される……
+これが天使と悪魔の違いだよ。我が行いには      確固たる信念がある。
+好きなだけ自分語りしてろ悪魔ちゃん。      すぐに首ねじ切ってやるからよ。
+よもや天使と信じていないのではないだろうね？
+なら輪っかを見せてやろう……             ドコ置いたか忘れちゃったけど。
+待てよ……自分は――
+まさかまさか！ありえんよ。どこかのポッケにでも   入れっぱなしにしたんだろう。
+次の試験はなかなかえげつないぞ。楽しんでくれ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_4.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Lucifer, the Maid Demon  •
+•  Subject 67  •
+Well, I'll be damned! You are pretty good for a non-66 number. This is A+ material so far.
+You do realise I can always skip puzzles from the menu, right?
+It almost feels like I'm young again. Naive angel student writing a thesis on modern sin.
+Of course, by now, I have completed exhaustive research on all the sins in recorded history. Ten times over.
+Yet, at the sight of anything mildly suggestive, she's still sweating like a thirsty adolescent.
+Lucy, please. I told you to ask for permission before you mock me.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  メイド悪魔のルシファー  •
+•  被検体67号  •
+すごい！66号ではないにもかかわらず、これほどの好成績を出せるとは。A+素材待ったなしであります。
+メニュー画面でいつでもスキップできるのを忘れたのか？
+現代罪の論文を書いていた若い頃を思い出すよ。あの頃はピュアな天使学徒だったなあ。
+当然、今やあらゆる罪について徹底的に研究調査を終えているがね。10回はくだらんよ。
+あのアマ、偉そーなナリしてますけど、メンタルは   思春期の童貞と変わらないんすよ。
+るーしー。我を嘲るなら伺いを立てるよう言ったよね。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_5.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Subject 67  •
+My heavens, I can't believe this. You've actually reached the final phase. No other subject got this far.
+We have apple pies. Do you like apple pies? Pass this last trial and you can have all the apple pies!
+Is there any other reward you'd like? Just name it and it's yours!
+I'll take from you everything you hold dear. I think I'll start with your smug little demon maid.
+Oh! I can see you know what's good in life!
+I can confirm that Lucy is the absolute best there is.
+She's smart, diligent and tries to assassinate me only twice a week.
+And don't even get me started on the quality of her pancakes.
+But I'm afraid you can't have her. I'd never give away my best girl.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  被検体67号  •
+なんということだ！信じられん。まさか最終試験にまで達するとは。他の被検体はことごとく脱落したというのに！
+こっちにはアップルパイがあるぞ。好物かな？最終試験を合格すれば、好きなだけ食わせてやろう！
+他に欲しいものはあるかな？言ってくれれば     何でも用意するぞ！
+貴様の宝を全て奪い去ってやる。まずはいけ好かない悪魔メイドからだ。
+おお！見る目があるじゃないか！
+ルーシーは最高のご褒美になるぞ。保証しよう。
+彼女は頭が良いし勤勉だし、週２で我を暗殺しようと  するんだ。
+パンケーキの出来栄えについては語るまでもないだろう。
+でもキミじゃ彼女をゲットできないんじゃないかな？  はいどうぞ、とあげるわけにはいかないしね。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_6.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Loremaster, the Science Demon  •
+•  Lucifer, the Maid Demon  •
+•  Justice, the Apple Pie Demon  •
+•  Subject 67  •
+You passed.
+We've finally done it.
+We've successfully committed sin against creation itself.
+Fantastic. Now move to the part where you surrender the apple pies, will you?
+Those apple pies I promised you? We got a bit too excited and already ate them.
+And when I say "we", I mean Lucy.
+...
+You'll have to wait until our chief apple pie scientist makes more.
+Apple pie's ready!
+Speak of the devil. Justice is a blessing that keeps on giving.
+I couldn't say it better.
+Oh shucks, you guys.
+I hope you choke on them, you crazy witches!
+Here's your apple pie. You deserved it.
+Lucy, be a dear and fetch us some coffee too.
+Subject 67, you are the first healthy and stable example of a new species of demon.
+You have no idea how much we can learn from you.
+And I want to learn EVERYTHING.
+        </source>
+        <target>•  科学悪魔のロアマスター  •
+•  メイド悪魔のルシファー  •
+•  パイ焼き悪魔のジャスティス  •
+•  被検体67号  •
+完成した。
+ついに研究が実を結んだのだ。
+ついに創造による罪を犯すことができたのだ。
+おめでたいな。それじゃあアップルパイを       いただくとするか。
+アップルパイなんて約束したかなあ？少しエキサイトしたから、ぜーんぶ平らげてしまったよ。
+ああ、「平らげた」のはルーシーね。
+……
+アップルパイ研究員の新規生産を待ってくれないかな。
+アップルパイおまちどう！
+噂をすれば激ヤバだ。ジャスティスほど良い奴は    どこにもいないと思うよ。
+まったくそのとおり。
+おいおいよせって。
+パイを喉に詰まらせて死んじまえ魔女どもめ！
+ほらキミのアップルパイだ。めしあがれ。
+ルーシー、彼と私たちにコーヒーを。
+被検体67号くん。キミは新型悪魔初の安定版になる。
+君からどれだけの知見が得られるか、計り知れないね。
+そう、何もかも学ばせてもらうよ。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_7.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+•  Lucifer, the Maid Demon  •
+•  Subject 67  •
+•  ???  •
+There you go.
+Now you look like a proper handsome demon.
+Do you find my humiliation amusing, wretched imp?
+Oh, come now. It looks good on you. Honest.
+Not like you have much choice in how to dress. You're property of our little "angel" now.
+Just like all of hell, actually. It's a bloody disgrace.
+One day I'll have my crown back. Mark my words.
+I wonder, though. When the time comes... Will you side with me, or will you side with her?
+...
+She knows me well. But she does not know you.
+You can be unpredictable, and therefore, useful.
+Think about what I said, okay?
+You remind me of a man I once knew.
+I wonder how he's doing these days.
+THE END
+        </source>
+        <target>•  メイド悪魔のルシファー  •
+•  被検体67号  •
+•  ???  •
+これでよし、と。
+すっかりハンサムな悪魔に仕上がりましたね。
+俺の醜態がそんなに面白いか、小悪魔め。
+いえまさか。正直に申し上げただけでして。      大変お似合いですよ。
+今の貴方にはお洋服選びですら選択肢はございません。 我らが「天使ちゃん」の所有物なんです。
+地獄全てがそうとも言えますね。お恥ずかしい限りです。
+いつか絶対に王冠を取り戻してやる……覚えていろ……
+して、時来たらば……貴様は余につくか？それともあいつに与するか？
+……
+あいつは余のことを佳く知っている。         だが貴様はそうではない。
+予測できない要素というのは実に都合がいい。
+ゆめゆめ忘れることなかれ。
+貴様を見ると、あの男のことを思い出すのだ。
+あいつはいったいどうしたのだろうな。
+THE END</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_8.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+Bonus Chapter - Examtaker
+GOD MODE
+SKIP SUFFERING
+Game by
+Łukasz Piskorz (twitter.com/vanripperart)
+Sound Design by
+Patryk Karwat (pkaudio.info)
+Music Tracks
+Alchemy, Titanium and Luminescent
+from Mittsies (youtube.com/mittsies)
+https://vanripper.itch.io/artbook2
+-
+Thanks for playing!
+        </source>
+        <target>Bonus Chapter - Examtaker
+ゴッドモード
+苦難を越える
+Game by
+Łukasz Piskorz (twitter.com/vanripperart)
+Sound Design by
+Patryk Karwat (pkaudio.info)
+Music Tracks
+Alchemy, Titanium and Luminescent
+from Mittsies (youtube.com/mittsies)
+https://kagerou01gata.itch.io/artbook2
+-
+Thanks for playing!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">hm_m.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html">
+        <source>
+        </source>
+        <target></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">file.ts</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
